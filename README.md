@@ -33,6 +33,7 @@ JavaScript (ES6)
 LocalStorage API
 
 📂 Project Structure
+
 Snake-Game/
 │
 ├── index.html
