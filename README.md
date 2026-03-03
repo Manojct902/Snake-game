@@ -34,12 +34,15 @@ LocalStorage API
 
 📂 Project Structure
 
+```
+
 Snake-Game/
 │
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
+```
 🚀 How to Run the Project
 
 Clone the repository
