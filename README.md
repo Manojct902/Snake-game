@@ -56,18 +56,22 @@ Open index.html in your browser
 
 No installation required ✅
 
-🎯 Game Controls
+#🎯 Game Controls
 Key	Action
-⬆ Arrow Up	Move Up
-⬇ Arrow Down	Move Down
-⬅ Arrow Left	Move Left
-➡ Arrow Right	Move Right
 
-🧠 Concepts Used in This Project
-.DOM Manipulation
-.Grid-based Game Logic
-.setInterval() for Game Loop
-.Event Listeners
-.LocalStorage for High Score
-.Collision Detection
-.Dynamic Rendering
+- ⬆ Arrow Up	Move Up
+- ⬇ Arrow Down	Move Down
+- ⬅ Arrow Left	Move Left
+- ➡ Arrow Right	Move Right
+
+
+#🧠 Concepts Used in This Project
+
+- DOM Manipulation
+- Grid-based Game Logic
+- setInterval() for Game Loop
+- Event Listeners
+- LocalStorage for High Score
+- Collision Detection
+- Dynamic Rendering
+
